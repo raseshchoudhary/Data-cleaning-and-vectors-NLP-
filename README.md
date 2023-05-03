@@ -2,27 +2,27 @@
 
 # Data cleaning process.
 
-![alt text](https://miro.medium.com/max/1000/1*yWFQiGjlgHUVYeh4ELELyw.jpeg)
+![alt text](https://www.guidebrain.com/wp-content/uploads/2021/02/Data-Cleaning.jpg)
 
-1.Removing the stop words
+# 1.Removing the stop words
 
->Tokenizing the sentence and making a function to skip all the stop words in a sentence or a data series
+Tokenizing the sentence and making a function to skip all the stop words in a sentence or a data series
 
-2.Lemmatize the data
+# 2.Lemmatize the data
 
->Converting the words from plural to singular.
+Converting the words from plural to singular.
 
-3.Stemming the data.
+# 3.Stemming the data.
 
->Converting the words into their root form.
+Converting the words into their root form.
 
-4.Removing the number from the data.
+# 4.Removing the number from the data.
 
->To have better columns when we vectorize
+To have better columns when we vectorize
 
-5.Lower casing the words.
+# 5.Lower casing the words.
 
->This is optional, genrally this is done so that "WORDS" and "words" are same words!!!.
+This is optional, genrally this is done so that "WORDS" and "words" are same words!!!.
 
 # Vectorization
 
